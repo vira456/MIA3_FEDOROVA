@@ -1,0 +1,10 @@
+{
+  "users": [
+    { "id": 1, "name": "Alice", "email": "alice@example.com", "role": "admin" },
+    { "id": 2, "name": "Bob", "email": "bob@example.com", "role": "user" }
+  ],
+  "posts": [
+    { "id": 1, "title": "Hello REST", "userId": 1, "tags": ["intro","rest"] },
+    { "id": 2, "title": "JSON Tips", "userId": 2, "tags": ["json"] }
+  ]
+}
